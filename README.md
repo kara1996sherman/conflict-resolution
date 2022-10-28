@@ -1,0 +1,2 @@
+# conflict-resolution
+merge conflicts
